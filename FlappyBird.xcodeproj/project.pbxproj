@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D30BCEF52238EE9A00345B1C /* sh_pickup01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D30BCEF42238EE9A00345B1C /* sh_pickup01.mp3 */; };
 		D314B16022338668007B7C30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D314B15F22338668007B7C30 /* AppDelegate.swift */; };
 		D314B16222338668007B7C30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D314B16122338668007B7C30 /* ViewController.swift */; };
 		D314B16522338668007B7C30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D314B16322338668007B7C30 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D30BCEF42238EE9A00345B1C /* sh_pickup01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sh_pickup01.mp3; path = ../../../../Desktop/sh_pickup01.mp3; sourceTree = "<group>"; };
 		D314B15C22338668007B7C30 /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D314B15F22338668007B7C30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D314B16122338668007B7C30 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		D314B15E22338668007B7C30 /* FlappyBird */ = {
 			isa = PBXGroup;
 			children = (
+				D30BCEF42238EE9A00345B1C /* sh_pickup01.mp3 */,
 				D314B15F22338668007B7C30 /* AppDelegate.swift */,
 				D314B16122338668007B7C30 /* ViewController.swift */,
 				D314B16322338668007B7C30 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D30BCEF52238EE9A00345B1C /* sh_pickup01.mp3 in Resources */,
 				D314B16A2233866E007B7C30 /* LaunchScreen.storyboard in Resources */,
 				D314B1672233866E007B7C30 /* Assets.xcassets in Resources */,
 				D314B16522338668007B7C30 /* Main.storyboard in Resources */,
